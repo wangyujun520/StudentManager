@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>学员管理系统</title>
+    <link href="~/bootstrap/css/animate.css" rel="stylesheet" />
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/bootstrap/js/jquery-3.2.1.min.js"></script>
+    <script src="~/bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h1 class="page-header text-danger animated bounceInLeft">学员管理系统</h1>
+        </div>
+        <div class="row">
+            <form action="~/Login/AdminLogin" method="post">
+                <div class="form-group">
+                    <lable class="">用户名：</lable>
+                    <input type="text" name="LoginId" value="@ViewBag.LoginId" placeholder="用户名" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <lable class="">密码：</lable>
+                    <input type="password" name="LoginPwd" value="@ViewBag.LoginPwd" placeholder="密码" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="登陆" />
+                </div>
+            </form>
+        </div>
+        <div class="row">
+            @ViewBag.info
+        </div>
+    </div>
+</body>
+</html>

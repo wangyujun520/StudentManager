@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\StudentManager\Models\bin\Release\Models.dll
+C:\Users\Admin\Desktop\StudentManager\Models\bin\Release\Models.pdb
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Release\Models.dll
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Release\Models.pdb

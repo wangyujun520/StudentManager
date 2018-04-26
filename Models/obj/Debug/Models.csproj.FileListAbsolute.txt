@@ -1,0 +1,11 @@
+F:\StudentManager\Models\bin\Debug\Models.dll
+F:\StudentManager\Models\bin\Debug\Models.pdb
+F:\StudentManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\StudentManager\Models\obj\Debug\Models.dll
+F:\StudentManager\Models\obj\Debug\Models.pdb
+C:\Users\Admin\Desktop\StudentManager\Models\bin\Debug\Models.dll
+C:\Users\Admin\Desktop\StudentManager\Models\bin\Debug\Models.pdb
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Debug\Models.dll
+C:\Users\Admin\Desktop\StudentManager\Models\obj\Debug\Models.pdb
